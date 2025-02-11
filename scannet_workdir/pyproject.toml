@@ -1,0 +1,11 @@
+[project]
+name = "dev"
+version = "0.0.0"
+
+[tool.setuptools.packages.find]
+include = ["splatfacto_scannetpp*", "instantngp_scannetpp*"]
+
+[project.entry-points.'nerfstudio.method_configs']
+splatfacto_scannetpp = 'splatfacto_scannetpp.splatfacto_scannetpp_config:splatfacto_scannetpp_method'
+instantngp_scannetpp = 'instantngp_scannetpp.instantngp_scannetpp_config:instantngp_scannetpp_method'
+

@@ -1,0 +1,2 @@
+instantngp_scannetpp
+splatfacto_scannetpp

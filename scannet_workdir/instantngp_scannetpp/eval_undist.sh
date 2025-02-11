@@ -1,0 +1,1 @@
+ns-eval --load-config outputs/instantngp_scannetpp_undistorted/instantngp_scannetpp/2025-02-10_112839/config.yml --render-output-path outputs/instantngp_scannetpp_undistorted/instantngp_scannetpp/2025-02-10_112839/out

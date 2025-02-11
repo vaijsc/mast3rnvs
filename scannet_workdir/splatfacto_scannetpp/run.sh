@@ -1,0 +1,2 @@
+# export NERFSTUDIO_METHOD_CONFIGS="splatfacto_scannetpp=splatfacto_scannetpp.splatfacto_scannetpp_config:splatfacto_scannetpp_method"
+ns-train splatfacto_scannetpp --data ../data/scannetpp/data/cc5237fd77

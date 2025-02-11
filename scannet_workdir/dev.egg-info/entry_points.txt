@@ -1,0 +1,3 @@
+[nerfstudio.method_configs]
+instantngp_scannetpp = instantngp_scannetpp.instantngp_scannetpp_config:instantngp_scannetpp_method
+splatfacto_scannetpp = splatfacto_scannetpp.splatfacto_scannetpp_config:splatfacto_scannetpp_method
